@@ -1,0 +1,17 @@
+EM 1st,2nd experiment orals type questions:
+1.What are the conditions you have verified in the experiment? 
+2.Briefly explain how to conduct the experiment.
+3.How to take calculations?
+4.How was the error calculated? What caused these errors and how can we avoid them?
+5.What are the various types of beams?
+6.What are the resultant, moment , etc mentioned in the experiment?
+
+What is angle of repose, 
+how to calculate tanθ,
+types of beams and how do they look like, 
+range of coefficient of restitution,
+impulse momentum, support reaction beam error procedure, 
+in cantilever, how many reactions will be there, 
+what is coefficient of restitution, 
+what is law of conservation of momentum, 
+what is principle of moment

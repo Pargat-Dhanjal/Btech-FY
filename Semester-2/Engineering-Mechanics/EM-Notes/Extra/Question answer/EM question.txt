@@ -1,0 +1,18 @@
+EM Questions:
+1.The speed of racing car is increasing at a constant rate from 72 km/hr to 144km/hr. 
+Over a distance of 200m, along a curve of radius 250m.Determine magnitude of total acceleration after car travels 120m.
+
+2.A car starts from rest at t=0 along a circular track. It's raius is 200m. The speed increases uniformly.
+At the end of 90s, the speed of car is 36km/hr.Find tangential and normal component of acceleration at t=30s.
+
+3.A car starts from rest on a curved road of radius 250m and accelerates at constant tangential acceleration of 0.6m/s^2. Determine distance and time for which car will travel before magnitude of total acceleration becomes 0.75m/s^2.
+
+4. The distance between car A and car B is 35m as shown in figure. Car A moves with a constant speed of 35km/hr and car B starts from rest with acceleration of 1.5m/s^2. Determine relative velocity, acceleration and postion of car B with respect to car A 5s after car A crosses the intersection.
+
+5.Two cars A and B start from rest from point O at the same instant and travel towards right along a straight road as shown in figure, car A moves with an acceleration of 4 m/s² and car B moves with an acceleration of 6 m/s². Find relative position velocity and acceleration of car B with respect to car A, 5 seconds from start.
+
+6.Two trains whose lengths are 75m and 45m respectively are moving in opposite direction. The tracks are parallel to each other and are observed to take 4s to completely cross each other. If the shorter train is travelling at double the speed of longer train, find the speed of each.
+
+7.The distance between the cars A and B as shown in figure is 35m. Car A moves with constant speed of 36 km/hr and car B starts from rest with an acceleration of 15 m/s². Determine relative velocity, acceleration and position of car B with respect to car A 5s after the car A crosses the intersection.
+
+8.At the intersection shown automobile A has a constant speed of 25 m/s and automobile B has a speed of 30 m/s and is gaining speed at the rate of 5m/s². Determine the corresponding velocity and acceleration of automobile A with respect to B.
