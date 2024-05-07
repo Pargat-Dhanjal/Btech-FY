@@ -3,5 +3,4 @@ description: Resources and reference materials for first-year BTech, including a
 theme: jekyll-theme-cayman
 show_downloads: true
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+  another_url: http://example.com/download.zip
