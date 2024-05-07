@@ -2,3 +2,6 @@ title: BTech FY
 description: Resources and reference materials for first-year BTech, including assignments and notes.
 theme: jekyll-theme-cayman
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
