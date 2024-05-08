@@ -1,2 +1,4 @@
-# Btech-FY
-Resources and reference material for first year Btech including assignments and notes
+# BTech FY
+
+- [Semester-1](Semester-1/)
+- [Semester-2](Semester-2/)
